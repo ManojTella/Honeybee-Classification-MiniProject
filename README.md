@@ -79,8 +79,10 @@ accuracy = sum(YPred == YValidation)/numel(YValidation)
  <tr>
   <th>Research</th>
   <th>Technique</th>
+  
  </tr>
 </table>
+
 ### Result:
 
 
