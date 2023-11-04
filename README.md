@@ -74,6 +74,13 @@ YValidation = imdsValidation.Labels
 plotconfusion(YValidation,YPred)
 accuracy = sum(YPred == YValidation)/numel(YValidation)
 ```
+### Literature Review:
+<table>
+ <tr>
+  <th>Research</th>
+  <th>Technique</th>
+ </tr>
+</table>
 ### Result:
 
 
