@@ -1,7 +1,7 @@
 # Honeybee-Classification-MiniProject
 ### Aim:
 Multi-Classification  of Honey bees  using Convolutional Neural Network.
-### Introduction:
+### 1.Introduction:
 #### 1.1. Need of Multiclassification of Honeybees:  
 In order to classify honeybees, multiple groups must be created based on their shared qualities and characteristics. This categorization serves a number of crucial functions. Scientists may investigate honeybees' evolutionary history, genetics, behaviour, and ecological functions through classification. Researchers can compare comparable honeybee species and come to conclusions about their biology and ecology by doing so. Threats to honeybee populations include habitat loss, pesticide use, illness, and climate change. Classifying honeybees makes it easier to distinguish between many species and subspecies, assisting conservation efforts by emphasizing those that are in danger or in decline. Different species and subspecies of honeybee exhibit a range of behaviours, feeding patterns, and pest and disease resistance.  
 
@@ -18,11 +18,13 @@ Deep Learning Techniques:
 
 • Multilayer Perceptrons (MLPs): Using structured data and a predetermined number of features, MLPs may be used for multiclass classification.
 
-#### 1.1. Figures:
+#### 1.4. Figures:
 ![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/ecc70a7a-af1d-465b-b50c-bed384d7df1d)
+#### 1.5. Flow Diagram.
+![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/6548efa9-3ddd-43a8-ba85-fb71c6b04690)
 
  			
-#### 1.1.2 Code or Program
+#### 2 Code or Program
 ```
 DatasetPath = fullfile('bees');
 imds = imageDatastore(DatasetPath, 'IncludeSubfolders', true, 'LabelSource','foldername');
