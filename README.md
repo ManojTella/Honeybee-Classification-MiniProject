@@ -76,11 +76,34 @@ accuracy = sum(YPred == YValidation)/numel(YValidation)
 ```
 ### Literature Review:
 <table>
- <tr>
-  <th>Research</th>
-  <th>Technique</th>
-  
- </tr>
+  <tr>
+    <th>Research</th>
+    <th>Technique</th>
+    <th>Features used</th>
+    <th>Domain</th>
+    <th>Adavantage and Disadvantage</th>
+    <th>Future Direction</th>
+
+  </tr>
+  <tr>
+    <td>V.A.Kulyukin,2016</td>
+    <td>Image processing <br>
+    Audio processing</td>
+    <td>
+      Agriculture<br>
+      Ecology<br>
+      Conservation
+    </td>
+    <td>
+      This algorithms can be implemented on low cost hardware platforms with an accuracy of 80.5%
+These are computationally complex and require a large amount of training da
+    </td>
+    <td>
+      Researchers are working to integrate electronic beehive monitoring systems with other systems, such as crop pollination management systems and pest control systems. This would allow beekeepers to use the data from electronic beehive monitoring systems to improve their overall beekeeping practices.
+    </td>
+    
+    
+  </tr>
 </table>
 
 ### Result:
