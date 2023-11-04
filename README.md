@@ -75,9 +75,9 @@ plotconfusion(YValidation,YPred)
 accuracy = sum(YPred == YValidation)/numel(YValidation)
 ```
 ### Literature Review:
-![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/58aa8c0d-bcbb-4cdb-9e49-4506fe5995da)
-![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/8c18382f-951d-4136-b147-133047bbe52c)
-![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/74203573-aca4-46eb-89d3-7b31f709853b)
+![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/63ebcac2-19f9-4893-ad0a-dad33b019647)
+![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/05c3a016-6b0f-4ef9-8595-c9b50ac4c7a4)
+![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/2f70007b-7372-4a3f-8c00-6140f63b7e43)
 
 ### Result:
 ### References
