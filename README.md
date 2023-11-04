@@ -5,7 +5,8 @@ Multi-Classification  of Honey bees  using Convolutional NEURAL NETWORK
 #### 1.1. Need of Multiclassification of Honeybees:
        hii
        
-           In order to classify honeybees, multiple groups must be created based on their shared qualities and characteristics. This categorization serves a number of crucial functions. 
+           In order to classify honeybees, multiple groups must be created based on their shared qualities and characteristics. 
+This categorization serves a number of crucial functions. 
            
 #### 1.2. Different Methods of Classification
 Deep Learning Techniques:
