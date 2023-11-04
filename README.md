@@ -1,12 +1,14 @@
 # Honeybee-Classification-MiniProject
 ### Aim:
-Multi-Classification  of Honey bees  using Convolutional NEURAL NETWORK
+Multi-Classification  of Honey bees  using Convolutional Neural Network.
 ### Introduction:
-#### 1.1. Need of Multiclassification of Honeybees: 
-This categorization serves a number of crucial functions. 
+#### 1.1. Need of Multiclassification of Honeybees:  
 In order to classify honeybees, multiple groups must be created based on their shared qualities and characteristics. This categorization serves a number of crucial functions. Scientists may investigate honeybees' evolutionary history, genetics, behaviour, and ecological functions through classification. Researchers can compare comparable honeybee species and come to conclusions about their biology and ecology by doing so. Threats to honeybee populations include habitat loss, pesticide use, illness, and climate change. Classifying honeybees makes it easier to distinguish between many species and subspecies, assisting conservation efforts by emphasizing those that are in danger or in decline. Different species and subspecies of honeybee exhibit a range of behaviours, feeding patterns, and pest and disease resistance.  
 
 For sustainable agricultural methods that rely on honeybee pollination, understanding these distinctions is essential. Certain illnesses and pests affect some honeybee species more than others. A better understanding of which honeybees may be more immune to these dangers will assist beekeepers and researchers direct their efforts to create disease-resistant breeds. For many crops and untamed plants, honeybees are essential pollinators. The precise categorization of honeybee species is critical for maximizing pollination services in various environments because distinct honeybee species could have preferences for particular types of flowers.
+
+By pollinating plants that serve as habitat and food for other species, honeybees play a critical role in ecosystems. Researcher comprehension of these complex linkages and ecological processes is aided by proper categorization. Our knowledge of the taxonomy and evolutionary history of the animal kingdom is larger thanks to the classification of honeybees. It helps us understand honeybees' origins and adaptations by putting them in the perspective of other similar creatures.
+
 #### 1.2. Different Methods of Classification
 Deep Learning Techniques:
 
