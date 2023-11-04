@@ -77,6 +77,8 @@ accuracy = sum(YPred == YValidation)/numel(YValidation)
 ### Literature Review:
 ![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/58aa8c0d-bcbb-4cdb-9e49-4506fe5995da)
 ![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/8c18382f-951d-4136-b147-133047bbe52c)
+![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/74203573-aca4-46eb-89d3-7b31f709853b)
+
 
 ### Result:
 
