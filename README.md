@@ -3,12 +3,14 @@
 Multi-Classification  of Honey bees  using Convolutional NEURAL NETWORK
 ### Introduction:
 #### 1.1. Need of Multiclassification of Honeybees:
-        In order to classify honeybees, multiple groups must be created based on their shared qualities and characteristics. This categorization serves a number of crucial functions. Scientists may investigate honeybees' evolutionary history, genetics, behaviour, and ecological functions through classification. Researchers can compare comparable honeybee species and come to conclusions about their biology and ecology by doing so. Threats to honeybee populations include habitat loss, pesticide use, illness, and climate change. Classifying honeybees makes it easier to distinguish between many species and subspecies, assisting conservation efforts by emphasizing those that are in danger or in decline. Different species and subspecies of honeybee exhibit a range of behaviours, feeding patterns, and pest and disease resistance.
            
 #### 1.2. Different Methods of Classification
 Deep Learning Techniques:
+
 • Convolutional Neural Networks (CNNs): CNNs are effective at classifying honeybees based on pictures of them and other image-based multiclassification tasks.
+
 • Recurrent neural networks (RNNs): RNNs are useful for sequential data, such as time-series information on the activity of honeybees or environmental variables.
+
 • Multilayer Perceptrons (MLPs): Using structured data and a predetermined number of features, MLPs may be used for multiclass classification.
 
 #### 1.1. Figures:
