@@ -90,19 +90,50 @@ accuracy = sum(YPred == YValidation)/numel(YValidation)
     <td>Image processing <br>
     Audio processing</td>
     <td>
+      Contour and Texture Fundamentals frequency and Harmonics
+    </td>
+    <td>
       Agriculture<br>
       Ecology<br>
       Conservation
     </td>
     <td>
       This algorithms can be implemented on low cost hardware platforms with an accuracy of 80.5%
-These are computationally complex and require a large amount of training da
+These are computationally complex and require a large amount of training data.
     </td>
     <td>
       Researchers are working to integrate electronic beehive monitoring systems with other systems, such as crop pollination management systems and pest control systems. This would allow beekeepers to use the data from electronic beehive monitoring systems to improve their overall beekeeping practices.
     </td>
+
     
-    
+  </tr>
+  <tr>
+    <td>
+      A.Krizhevsky,2012
+    </td>
+    <td>
+      Convolutional neural networks<br>
+      Rectified linear units(ReLUs)<br>
+      Dropout<br>
+      Data agumentation
+
+    </td>
+    <td>
+      Color features<br>
+      Texture features<br>
+      Shape features
+    </td>
+    <td>
+      This CNN architecture can be scaled to handle large data sets
+
+The CNN  can be prone to overfitting, especially
+When trained on small datasets
+
+    </td>
+    <td>
+      eep convolutional neural networks (CNNs) for image classification is very promising. CNNs have already achieved state-of-the-art results on a wide range of image classification benchmarks, and researchers are continuing to develop new and improved CNN architectures and training techniques.
+
+    </td>
   </tr>
 </table>
 
