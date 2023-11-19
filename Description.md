@@ -1,4 +1,4 @@
-### 1.Introduction:
+### Introduction:
 #### 1.1. Need of Multiclassification of Honeybees:  
 In order to classify honeybees, multiple groups must be created based on their shared qualities and characteristics. This categorization serves a number of crucial functions. Scientists may investigate honeybees' evolutionary history, genetics, behaviour, and ecological functions through classification. Researchers can compare comparable honeybee species and come to conclusions about their biology and ecology by doing so. Threats to honeybee populations include habitat loss, pesticide use, illness, and climate change. Classifying honeybees makes it easier to distinguish between many species and subspecies, assisting conservation efforts by emphasizing those that are in danger or in decline. Different species and subspecies of honeybee exhibit a range of behaviours, feeding patterns, and pest and disease resistance.  
 
@@ -6,7 +6,7 @@ For sustainable agricultural methods that rely on honeybee pollination, understa
 
 By pollinating plants that serve as habitat and food for other species, honeybees play a critical role in ecosystems. Researcher comprehension of these complex linkages and ecological processes is aided by proper categorization. Our knowledge of the taxonomy and evolutionary history of the animal kingdom is larger thanks to the classification of honeybees. It helps us understand honeybees' origins and adaptations by putting them in the perspective of other similar creatures.
 
-#### 1.2. Different Methods of Classification
+### Different Methods of Classification
 Deep Learning Techniques:
 
 • Convolutional Neural Networks (CNNs): CNNs are effective at classifying honeybees based on pictures of them and other image-based multiclassification tasks.
@@ -15,13 +15,13 @@ Deep Learning Techniques:
 
 • Multilayer Perceptrons (MLPs): Using structured data and a predetermined number of features, MLPs may be used for multiclass classification.
 
-#### 1.4. Figures:
+### Figures:
 ![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/ecc70a7a-af1d-465b-b50c-bed384d7df1d)
 #### 1.5. Flow Diagram.
 ![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/6548efa9-3ddd-43a8-ba85-fb71c6b04690)
 
  			
-#### 2 Code or Program
+### Code or Program
 ```
 DatasetPath = fullfile('bees');
 imds = imageDatastore(DatasetPath, 'IncludeSubfolders', true, 'LabelSource','foldername');
@@ -80,16 +80,16 @@ accuracy = sum(YPred == YValidation)/numel(YValidation)
 ![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/2f70007b-7372-4a3f-8c00-6140f63b7e43)
 
 ### Result:
-###### Validation and Testing
+#### Validation and Testing
 ![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/33bb4032-0c98-4ece-971a-237cd90e77cc)
 
-###### Accuracy
+#### Accuracy
 ![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/44aa6780-6fe1-4e6d-8d6e-dcf4cc2854d4)
 
-###### Accuracy Curve
+#### Accuracy Curve
 ![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/d7252166-6469-4d96-a3ce-2b311e1e464c)
 
-###### Confusion Matrix
+#### Confusion Matrix
 ![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/9d0504c7-53ff-46a7-a04f-c26f551c7a1e)
 
 
