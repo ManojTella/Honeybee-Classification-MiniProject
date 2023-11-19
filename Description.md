@@ -1,5 +1,5 @@
 ### Introduction:
-#### 1.1. Need of Multiclassification of Honeybees:  
+### Need of Multiclassification of Honeybees:  
 In order to classify honeybees, multiple groups must be created based on their shared qualities and characteristics. This categorization serves a number of crucial functions. Scientists may investigate honeybees' evolutionary history, genetics, behaviour, and ecological functions through classification. Researchers can compare comparable honeybee species and come to conclusions about their biology and ecology by doing so. Threats to honeybee populations include habitat loss, pesticide use, illness, and climate change. Classifying honeybees makes it easier to distinguish between many species and subspecies, assisting conservation efforts by emphasizing those that are in danger or in decline. Different species and subspecies of honeybee exhibit a range of behaviours, feeding patterns, and pest and disease resistance.  
 
 For sustainable agricultural methods that rely on honeybee pollination, understanding these distinctions is essential. Certain illnesses and pests affect some honeybee species more than others. A better understanding of which honeybees may be more immune to these dangers will assist beekeepers and researchers direct their efforts to create disease-resistant breeds. For many crops and untamed plants, honeybees are essential pollinators. The precise categorization of honeybee species is critical for maximizing pollination services in various environments because distinct honeybee species could have preferences for particular types of flowers.
@@ -17,7 +17,7 @@ Deep Learning Techniques:
 
 ### Figures:
 ![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/ecc70a7a-af1d-465b-b50c-bed384d7df1d)
-#### 1.5. Flow Diagram.
+### Flow Diagram:
 ![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/6548efa9-3ddd-43a8-ba85-fb71c6b04690)
 
  			
