@@ -81,16 +81,16 @@ accuracy = sum(YPred == YValidation)/numel(YValidation)
 
 ### Result:
 ###### Validation and Testing
-![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/346d83a5-bcf9-4067-b207-2f558dbbd4ef)
+![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/33bb4032-0c98-4ece-971a-237cd90e77cc)
 
 ###### Accuracy
-![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/ec119374-2017-4485-81b9-2fafd4ef5162)
+![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/44aa6780-6fe1-4e6d-8d6e-dcf4cc2854d4)
 
 ###### Accuracy Curve
-![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/8415cf4d-b600-49bd-960b-0a9a152a28b6)
+![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/d7252166-6469-4d96-a3ce-2b311e1e464c)
 
 ###### Confusion Matrix
-![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/a5bfc68c-6fb9-4fa2-83fb-d644f3c5b333)
+![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/9d0504c7-53ff-46a7-a04f-c26f551c7a1e)
 
 
 ### References
