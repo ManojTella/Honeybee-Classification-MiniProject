@@ -80,6 +80,19 @@ accuracy = sum(YPred == YValidation)/numel(YValidation)
 ![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/2f70007b-7372-4a3f-8c00-6140f63b7e43)
 
 ### Result:
+###### Validation and Testing
+![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/346d83a5-bcf9-4067-b207-2f558dbbd4ef)
+
+###### Accuracy
+![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/ec119374-2017-4485-81b9-2fafd4ef5162)
+
+###### Accuracy Curve
+![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/8415cf4d-b600-49bd-960b-0a9a152a28b6)
+
+###### Confusion Matrix
+![image](https://github.com/ManojTella/Honeybee-Classification-MiniProject/assets/94883876/a5bfc68c-6fb9-4fa2-83fb-d644f3c5b333)
+
+
 ### References
 [1] V. A. Kulyukin and S. K. Reka, “Toward sustainable electronic beehive monitoring: Algorithms for omnidirectional bee counting from images and harmonic analysis of buzzing signals.” Engineering Letters, vol. 24, no. 3, 2016.
 
